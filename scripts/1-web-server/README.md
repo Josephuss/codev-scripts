@@ -1,0 +1,3 @@
+- install ansible playbook in your machine
+- replace host in hosts.ini 
+- run ansible-playbook -i hosts.ini nginx-install.yml
